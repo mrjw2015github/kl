@@ -18,6 +18,7 @@ Contents
 
 .. toctree::
 
+   coolstuff
    usage
    api
    你好
